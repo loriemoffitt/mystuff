@@ -1,8 +1,8 @@
 Publications and Presentations
 * [3 Moves That Will Help You Hire Women in STEM](https://switchthefuture.com/2018/08/01/3-moves-that-will-help-you-hire-women-in-stem/)
-* [Teaching E-business with Enterprise JavaBeans] (Presented at Wofford college) (https://dl.acm.org/doi/10.5555/771322.771371)
+* [Teaching E-business with Enterprise JavaBeans](https://dl.acm.org/doi/10.5555/771322.771371) (Presented at Wofford College)
 * [Degree or certification: what do faculty think? ](https://dl.acm.org/doi/10.5555/771322.771352)
-* [Collaborative client-server architectures in Tcl/Tk: a class project experiment and experience](https://dl.acm.org/doi/10.5555/1267524.1267537)
+* [Collaborative client-server architectures in Tcl/Tk](https://dl.acm.org/doi/10.5555/1267524.1267537)
 * [Fault-tolerant extensible approach to improving spectral analysis throughput via parallel/distributed processing](https://ui.adsabs.harvard.edu/abs/2002SPIE.4725..372R/abstract)
 
 
